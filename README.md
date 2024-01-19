@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @shiVangi771
 - 👨‍🎓 I am currently pusuing Btech Degree in CSE from Vellore Institute Of Technology.
-- 👀 I’m interested in Backend development and  problem solving
-- 🌱 I’m currently learning React and JavaScript Libraries
+- 👀 I’m interested in web development and  machine learning.
+- I do problem solving and competitive coding with C++.
+- 🌱 I’m currently learning Data Analysis.
 - 📫 How to reach me on linkedin : https://www.linkedin.com/in/shivangi-mishra-7198a4290/
 
 <!---
